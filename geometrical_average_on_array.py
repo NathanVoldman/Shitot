@@ -1,25 +1,28 @@
 import math
 
 
-def sum_dual_tuple(tup):
-    tup1, tup2 = tup
-    return tup1 + tup2
+def array_of_tupples_from_each_consecutive_items(arr): # tup_adj
+    new_arr = []
+    for i in range(len(arr) - 1):
+        new_arr.append((arr[i], arr[i + 1]))
+    return new_arr
 
 
-def geometrical_average_on_array(arr):
+def geometrical_average_on_sum_of_adjacent_items_in_array(arr): # geo_avg_adj_sum
+    tup_arr = array_of_tupples_from_each_consecutive_items(arr)
     product = 1
-    for num in arr:
-        product *= num
+    for tup in tup_arr:
+        product *= sum(tup)
     res = math.sqrt(product)
     return res
 
 
 def main():
-    tup_arr = [(1, 1), (1, 3), (5, 3)]
-    arr = [sum_dual_tuple(tup) for tup in tup_arr]
-    val = geometrical_average_on_array(arr)
+    arr = [1, 3, 5, 3]
+    val = geometrical_average_on_sum_of_adjacent_items_in_array(arr)
     print(val)
 
 
 if __name__ == '__main__':
     main()
+
