@@ -1,23 +1,27 @@
+def capitalize_2nd_letter(x):
+    ans = ''
+    for i,c in enumerate(x):
+        if i==1:
+            ans = ans + c.upper()
+        else:
+            ans = ans + c
+    return ans
+
+def capitalize_2nd_letter_of_even_words(x):
+    ans = []
+    x = x.split(' ')
+    for i,y in enumerate(x):
+        if i%2:
+            z = capitalize_2nd_letter(y)
+        else:
+            z=y
+        ans.append(z)
+    return ' '.join(ans)
 
 def main():
-    x = int(input('first:'))
-    y = int(input('second:'))
-    print(power_plus_one(x,y))
-
-def power_plus_one(x,y):
-    ans = 1
-    for _ in range(y):
-        ans = multiply_plus_one(ans,x)
-    return ans+1
-
-def multiply_plus_one(x,y):
-    ans = 0
-    for _ in range(y):
-        ans = add_plus_one(ans,x)
-    return ans+1
-
-def add_plus_one(x,y):
-    return x+y+1
+    x = str(input('?:'))
+    y = capitalize_2nd_letter_of_even_words(x)
+    print(y)
 
 if __name__=="__main__":
     main()
