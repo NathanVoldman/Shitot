@@ -3,7 +3,7 @@ def capitalize(y): #cap
     z+= y[1:]
     return z
 
-def camelcase(x): #cmlc
+def camelcase(x): #cml_cs
     ans = []
     x = x.split(' ')
     for y in x:

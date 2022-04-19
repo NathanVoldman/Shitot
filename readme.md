@@ -18,8 +18,18 @@ We will test code comprehension by introducing the subjects with code that funct
 
 ##  Assignments (for after passover 26.4.22):
 
-1. write a 2-4 more functions for the pilot, preferably something that a programmer will encounter in his work
-2. start working on a platform to perform the experiment, write the pilot so we can run it
-platforms:
-- jpsych
-- anvil
+1. write a 2-4 more functions for the pilot, preferably something that a programmer will encounter in his work -Done
+2. start working on a platform to perform the experiment, write the pilot so we can run it - Done
+3. write opening for questionair - Sagiv
+4. finalize time measurment - Nathan
+5. Make sure everything is written to DB - Nathan
+6. Finalize website design - Nathan
+7. Think about what should we ask the programmers - Sagiv
+8. Think what should be the baseline question - Sagiv
+
+## Questions for next meeting
+
+- multiple choice vs open answer?
+- go over short function names (are they possible)
+
+
