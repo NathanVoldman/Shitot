@@ -1,14 +1,14 @@
 import math
 
 
-def array_of_tupples_from_each_consecutive_items(arr): # tup_adj
+def array_of_tupples_from_each_consecutive_items(arr):
     new_arr = []
     for i in range(len(arr) - 1):
         new_arr.append((arr[i], arr[i + 1]))
     return new_arr
 
 
-def geometrical_average_on_sum_of_adjacent_items_in_array(arr): # geo_avg_adj_sum
+def geometrical_average_on_sum_of_adjacent_items_in_array(arr):
     tup_arr = array_of_tupples_from_each_consecutive_items(arr)
     product = 1
     for tup in tup_arr:
