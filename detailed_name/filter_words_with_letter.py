@@ -1,11 +1,11 @@
-def word_has_letter(x, y):  # cont_let
+def word_has_letter(x, y):
     for a in x:
         if a.lower() == y.lower():
             return True
     return False
 
 
-def find_words_containing_letter(x_list, y):  # wrd_w_let
+def find_words_containing_letter(x_list, y):
     z = []
     for x in x_list:
         if word_has_letter(x, y):
