@@ -1,9 +1,9 @@
-def capitalize(y): #cap
+def cap(y):
     z = y[0].upper()
     z+= y[1:]
     return z
 
-def camelcase(x): #cml_cs
+def cml_cs(x):
     ans = []
     x = x.split(' ')
     for y in x:
