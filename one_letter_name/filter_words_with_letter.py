@@ -1,11 +1,11 @@
-def A(x, y):  # cont_let
+def A(x, y):
     for a in x:
         if a.lower() == y.lower():
             return True
     return False
 
 
-def B(x_list, y):  # wrd_w_let
+def B(x_list, y):
     z = []
     for x in x_list:
         if word_has_letter(x, y):
