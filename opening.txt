@@ -1,0 +1,40 @@
+Greetings!
+
+First of all, we want to thank you for taking the time to participate in this study where we hope to better understand how developers work and help all of us write better code.
+
+In the following screens you will be presented with a short code, input to the main function and possible outputs. We ask you to read the code, try to understand it and finally choose what you think the code should output. First you'll be presented with an easy question to get you going followed by 3 harder questions. we ask you to try and get the right answer as fast as you can.
+
+Finally, the estimated time to complete this study is about ##? minutes, and for it to be significant we ask that you take breaks only between questions and complete it within one hour but it should take much less. If you feel you don't have the time right now that's OK, please comeback whenever you can before ##/## (we'll remind you 4 days before if you'll leave us your email)
+
+
+baseline question: Power.py
+
+questions for developers:
+
+1. what is your experience in python (in years):
+
+- 0-1
+- 2-5
+- 5-10
+- >10
+
+2. where did you learn:
+
+- army
+- university
+- online
+- course
+- other
+
+4. what is your job title?
+- developer
+- algorithm
+- manager
+- dev ops
+- researcher
+- ?
+- other
+
+
+
+
