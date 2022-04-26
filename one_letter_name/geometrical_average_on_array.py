@@ -19,7 +19,7 @@ def B(arr):
 
 def main():
     arr = [1, 3, 5, 3]
-    val = geometrical_average_on_sum_of_adjacent_items_in_array(arr)
+    val = B(arr)
     print(val)
 
 
