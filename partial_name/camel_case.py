@@ -14,4 +14,4 @@ def cml_cs(x):
 
 if __name__=="__main__":
     x = 'this is a test string'
-    print(camelcase(x))
+    print(cml_cs(x))
