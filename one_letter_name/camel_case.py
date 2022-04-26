@@ -14,4 +14,4 @@ def B(x):
 
 if __name__=="__main__":
     x = 'this is a test string'
-    print(camelcase(x))
+    print(B(x))
