@@ -17,4 +17,4 @@ def wrd_w_let(x_list, y):
 if __name__ == "__main__":
     x_list = ['hello', 'are', 'grow', 'spam', 'ham', 'hi', 'go', 'to', 'this']
     y = 'h'
-    print(find_words_containing_letter(x_list, y))
+    print(wrd_w_let(x_list, y))
