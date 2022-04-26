@@ -9,7 +9,7 @@ def A(arr):
 
 
 def B(arr):
-    tup_arr = array_of_tupples_from_each_consecutive_items(arr)
+    tup_arr = A(arr)
     product = 1
     for tup in tup_arr:
         product *= sum(tup)
