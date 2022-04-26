@@ -19,7 +19,7 @@ def geo_avg_adj_sum(arr):
 
 def main():
     arr = [1, 3, 5, 3]
-    val = geometrical_average_on_sum_of_adjacent_items_in_array(arr)
+    val = geo_avg_adj_sum((arr)
     print(val)
 
 
