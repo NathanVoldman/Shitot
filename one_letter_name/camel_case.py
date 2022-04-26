@@ -7,7 +7,7 @@ def B(x):
     ans = []
     x = x.split(' ')
     for y in x:
-        z = capitalize(y)
+        z = A(y)
         ans.append(z)
     return ''.join(ans)
 
