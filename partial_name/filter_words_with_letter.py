@@ -9,7 +9,7 @@ def cont_let(x, y):
 def wrd_w_let(x_list, y):
     z = []
     for x in x_list:
-        if word_has_letter(x, y):
+        if cont_let(x, y):
             z.append(x)
     return z
 
