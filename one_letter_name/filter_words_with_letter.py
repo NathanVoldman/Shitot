@@ -8,7 +8,7 @@ def A(x, y):
 def B(x_list, y):
     z = []
     for x in x_list:
-        if word_has_letter(x, y):
+        if A(x, y):
             z.append(x)
     return z
 
