@@ -1,20 +1,21 @@
-def capitalize(y): #cap
+def capitalize(y):  # cap  # B
     z = y[0].upper()
-    z+= y[1:]
+    z += y[1:]
     return z
 
-def camelcase(x): #cml_cs
+
+def camelcase(function_input):  # cml  # A
     ans = []
-    x = x.split(' ')
+    x = function_input.split(' ')
     for y in x:
         z = capitalize(y)
         ans.append(z)
     return ''.join(ans)
 
 
-if __name__=="__main__":
-    x = 'this is a test string'
-    print(camelcase(x))
+if __name__ == "__main__":
+    function_input = 'this is a test string'
+    print(camelcase(function_input))
 
 # Answers:
 # 1.ThisIsATestString

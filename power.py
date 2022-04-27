@@ -1,18 +1,20 @@
-def power(x,y): # pwr
-    z = 1
-    for _ in range(y):
-        z = multiply(x,z)
-    return z
-
-def multiply(x,z): # mlt
+def B(x, z):  # multiply
     w = 0
     for _ in range(z):
-        w = w+x
+        w = w + x
     return w
 
-if __name__=="__main__":
+
+def A(x, y):  # power
+    z = 1
+    for _ in range(y):
+        z = B(x, z)
+    return z
+
+
+if __name__ == "__main__":
     x, y = 2, 5
-    z = power(x, y)
+    z = A(x, y)
     print(z)
 
 # Answers:

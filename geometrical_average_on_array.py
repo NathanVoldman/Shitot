@@ -1,28 +1,30 @@
 import math
 
 
-def array_of_tupples_from_each_consecutive_items(arr): # tup_adj
-    new_arr = []
-    for i in range(len(arr) - 1):
-        new_arr.append((arr[i], arr[i + 1]))
-    return new_arr
+def array_of_tuples_from_each_consecutive_items(x):  # tup_adj
+    y = []
+    for i in range(len(x) - 1):
+        y.append((x[i], x[i + 1]))
+    return y
 
 
-def geometrical_average_on_sum_of_adjacent_items_in_array(arr): # geo_avg_adj_sum
-    tup_arr = array_of_tupples_from_each_consecutive_items(arr)
-    product = 1
-    for tup in tup_arr:
-        product *= sum(tup)
-    res = math.sqrt(product)
-    return res
-
-
-def main():
-    arr = [1, 3, 5, 3]
-    val = geometrical_average_on_sum_of_adjacent_items_in_array(arr)
-    print(val)
+def euclidian_distance(x1,x2):  # dist  #A
+    '''
+    Rewrite This!!!!
+    :param x1:
+    :param x2:
+    :return:
+    '''
+    y = array_of_tuples_from_each_consecutive_items(x1,x2)
+    w = 0
+    for z in y:
+        w += sum(z)
+    ans = math.sqrt(w)
+    return ans
 
 
 if __name__ == '__main__':
-    main()
-
+    x1 = [1, 3, 5, 3]
+    x2 = [1, 3, 5, 3]
+    ans = norm_2(x1,x2)
+    print(ans)

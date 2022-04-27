@@ -1,12 +1,12 @@
-def has_repeating_letter(x): #has_rep
+def has_repeating_letter(x):  # has_rep
     x = list(x)
-    while x:
-        y = x.pop()
-        if y in x:
+    for i in range(len(x) - 1):
+        if x[i] == x[i + 1]:
             return True
     return False
 
-def filter_repeating_letter_words(x_list): #fltr_rep
+
+def filter_repeating_letter_words(x_list):  # flt_rep
     z = []
     for x in x_list:
         if has_repeating_letter(x):
@@ -14,8 +14,8 @@ def filter_repeating_letter_words(x_list): #fltr_rep
     return z
 
 
-if __name__=="__main__":
-    x_list = ['this','riddle','has','nothing','to','do','with','all','the','other','questions']
+if __name__ == "__main__":
+    x_list = ['this', 'riddle', 'has', 'nothing', 'to', 'do', 'with', 'all', 'the', 'other', 'questions']
     print(filter_repeating_letter_words(x_list))
 
 # Answers:
