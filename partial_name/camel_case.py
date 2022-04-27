@@ -7,7 +7,7 @@ def cml_cs(x):
     ans = []
     x = x.split(' ')
     for y in x:
-        z = capitalize(y)
+        z = cap(y)
         ans.append(z)
     return ''.join(ans)
 
