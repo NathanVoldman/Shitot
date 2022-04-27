@@ -9,7 +9,7 @@ def A(arr):
 
 
 def B(arr):
-    tup_arr = array_of_tupples_from_each_consecutive_items(arr)
+    tup_arr = A(arr)
     product = 1
     for tup in tup_arr:
         product *= sum(tup)
@@ -19,7 +19,7 @@ def B(arr):
 
 def main():
     arr = [1, 3, 5, 3]
-    val = geometrical_average_on_sum_of_adjacent_items_in_array(arr)
+    val = B(arr)
     print(val)
 
 

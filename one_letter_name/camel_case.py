@@ -7,11 +7,11 @@ def B(x):
     ans = []
     x = x.split(' ')
     for y in x:
-        z = capitalize(y)
+        z = A(y)
         ans.append(z)
     return ''.join(ans)
 
 
 if __name__=="__main__":
     x = 'this is a test string'
-    print(camelcase(x))
+    print(B(x))

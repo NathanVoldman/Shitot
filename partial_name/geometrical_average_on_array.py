@@ -9,7 +9,7 @@ def tup_adj(arr):
 
 
 def geo_avg_adj_sum(arr):
-    tup_arr = array_of_tupples_from_each_consecutive_items(arr)
+    tup_arr = tup_adj(arr)
     product = 1
     for tup in tup_arr:
         product *= sum(tup)
@@ -19,7 +19,7 @@ def geo_avg_adj_sum(arr):
 
 def main():
     arr = [1, 3, 5, 3]
-    val = geometrical_average_on_sum_of_adjacent_items_in_array(arr)
+    val = geo_avg_adj_sum((arr)
     print(val)
 
 

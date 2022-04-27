@@ -7,11 +7,11 @@ def cml_cs(x):
     ans = []
     x = x.split(' ')
     for y in x:
-        z = capitalize(y)
+        z = cap(y)
         ans.append(z)
     return ''.join(ans)
 
 
 if __name__=="__main__":
     x = 'this is a test string'
-    print(camelcase(x))
+    print(cml_cs(x))
