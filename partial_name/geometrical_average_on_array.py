@@ -9,7 +9,7 @@ def tup_adj(arr):
 
 
 def geo_avg_adj_sum(arr):
-    tup_arr = array_of_tupples_from_each_consecutive_items(arr)
+    tup_arr = tup_adj(arr)
     product = 1
     for tup in tup_arr:
         product *= sum(tup)
