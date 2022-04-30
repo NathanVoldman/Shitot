@@ -1,27 +1,17 @@
+------Welcome screen-----
+
 Greetings!
 
-First of all, we want to thank you for taking the time to participate in this study where we hope to better understand how developers work and help all of us write better code.
+First of all, we want to thank you for taking the time to participate in this study where we hope to better understand how developers work and help all of us write better code. we assure you that we don't collect any personal data and, and that you are not obligated in any way to answer all questions or finish the questionair.
 
-In the following screens you will be presented with a short code, input to the main function and possible outputs. We ask you to read the code, try to understand it and finally choose what you think the code should output. First you'll be presented with an easy question to get you going followed by 3 harder questions. we ask you to try and get the right answer as fast as you can.
-
-Finally, the estimated time to complete this study is about 8 minutes, and for it to be significant we ask that you take breaks only between questions. 
-
-## add a line about the code being straight forward and there is no bugs
-## Recommend having a pencil and a piece of paper although they are discourage from actually interpreting line by line but sometimes it helps to understand the functionality of each part
-
-## add assurance we don't collect any identifying data
-## add the possibility that you can stop any time
-## checkbox that says "I read and I agree to participate in the study"
+>> (Checkbox) I have read and I agree to participate
 
 
+------ General Questions screen -------
 
+Just a quick question before we start:
 
-baseline question: Power.py (without names)
-
-questions for developers (before starting):
-
-
-1. what is your industry experience in programming (in years):
+what is your industry experience in programming (in years):
 
 - 1st year student
 - 2nd+ year student with no industry experience
@@ -30,9 +20,35 @@ questions for developers (before starting):
 - 6-10
 - >11
 
-questions for developers (after finishing):
 
-2. where did you learn:
+
+--------Instructions screen--------
+
+In the following screens you will be presented with a short code, input to the main function and possible outputs. We ask you to read the code, try to understand it and finally choose what you think the code should output. 
+>> First you'll be presented with an easy question to get you going followed by 3 harder questions. ## Maybe skip this line??
+We ask you to try and get the right answer as fast as you can. The code is straight forward and you don't have too look for bugs or edge cases, if you think you know what id does, you're probably right. 
+Having said that, please have a piece of paper and pencil ready as you might need them for *simple* calculations (don't use it for going over the code line-by-line, solving this way is tedious and generally a bad practice).
+
+Finally, the estimated time to complete this study is about 8 minutes, and for it to be significant we ask that you take breaks only between questions. 
+
+-------- First Question-----------
+
+baseline question: Power.py (without names)
+
+-------- 3 Random Questions---------
+Show 3 questions and between them:
+
+"Thank you! you've completed #/# questions.
+if you need a break you can take it now, click on the button when you are ready for the next one"
+
+--------General questions (optional)------
+
+That wasn't so hard, wasn't it?
+Here are a few more questions that will help us further explore how different programmers understand code.
+We remind you that you don't have to answer them, but we think you should :)
+
+
+1. where did you learn to code: # make this multiple choice
 
 - army
 - university (or college)
@@ -40,7 +56,7 @@ questions for developers (after finishing):
 - coding bootcamp
 - other
 
-3. what is your job title?
+2. what is your job title?
 
 - student
 - researcher (Academy)
@@ -51,7 +67,7 @@ questions for developers (after finishing):
 - dev ops
 - IT
 
-4. what is your gender?
+3. what is your gender?
 
 - Male
 - Female
