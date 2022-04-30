@@ -1,15 +1,17 @@
-def B(x, z):
-    w = 0
+def B(z, x):
+    ''' This function does ??? '''
+    ans = 0
     for _ in range(z):
-        w = w + x
-    return w
+        ans += x
+    return ans
 
 
 def A(x, y):
-    z = 1
+    ''' This function does ??? '''
+    ans = 1
     for _ in range(y):
-        z = B(x, z)
-    return z
+        ans = B(ans, x)
+    return ans
 
 
 if __name__ == "__main__":
