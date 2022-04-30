@@ -1,10 +1,10 @@
-def capitalize(y):  # cap  # B
+def capitalize(y):
     z = y[0].upper()
     z += y[1:]
     return z
 
 
-def camelcase(function_input):  # cml  # A
+def camelcase(function_input):
     ans = []
     x = function_input.split(' ')
     for y in x:
@@ -17,6 +17,45 @@ if __name__ == "__main__":
     function_input = 'this is a test string'
     print(camelcase(function_input))
 
+    
+#  def cap(y):
+#     z = y[0].upper()
+#     z += y[1:]
+#     return z
+
+
+# def cml(function_input):
+#     ans = []
+#     x = function_input.split(' ')
+#     for y in x:
+#         z = cap(y)
+#         ans.append(z)
+#     return ''.join(ans)
+
+
+# if __name__ == "__main__":
+#     function_input = 'this is a test string'
+#     print(cml(function_input))
+
+    
+# def B(y):
+#     z = y[0].upper()
+#     z += y[1:]
+#     return z
+
+
+# def A(function_input):
+#     ans = []
+#     x = function_input.split(' ')
+#     for y in x:
+#         z = B(y)
+#         ans.append(z)
+#     return ''.join(ans)
+
+
+# if __name__ == "__main__":
+#     function_input = 'this is a test string'
+#     print(A(function_input))
 # Answers:
 # 1.ThisIsATestString
 # 2.thisisateststring
