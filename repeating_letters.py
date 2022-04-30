@@ -15,7 +15,9 @@ def filter_repeating_letter_words(x_list):
 
 
 if __name__ == "__main__":
-    x_list = ['this', 'riddle', 'has', 'nothing', 'to', 'do', 'with', 'all', 'the', 'other', 'questions']
+    x_list = ['this', 'riddle', 'has',
+              'nothing', 'to', 'do', 'with',
+              'all', 'the', 'other', 'questions']
     print(filter_repeating_letter_words(x_list))
 
 # def has_rep(x):
@@ -35,7 +37,9 @@ if __name__ == "__main__":
 
 
 # if __name__ == "__main__":
-#     x_list = ['this', 'riddle', 'has', 'nothing', 'to', 'do', 'with', 'all', 'the', 'other', 'questions']
+#     x_list = ['this', 'riddle', 'has',
+#               'nothing', 'to', 'do', 'with',
+#               'all', 'the', 'other', 'questions']
 #     print(flt_rep(x_list))
 
 # def B(x):
@@ -55,7 +59,9 @@ if __name__ == "__main__":
 
 
 # if __name__ == "__main__":
-#     x_list = ['this', 'riddle', 'has', 'nothing', 'to', 'do', 'with', 'all', 'the', 'other', 'questions']
+#     x_list = ['this', 'riddle', 'has',
+#               'nothing', 'to', 'do', 'with',
+#               'all', 'the', 'other', 'questions']
 #     print(A(x_list))
 
 # Answers:
