@@ -29,11 +29,11 @@ https://hygojanqikehlxpb.anvil.app/KVVPGJKUSKTSNVQN5EMXTE5N
 6. Finalize website design - Nathan
 7. Think about what should we ask the programmers - Done
 8. Think what should be the baseline question - Done
-9. between screens: "Thank you! are you ready for the next one?" - Nathan
+9. between screens: "Thank you! are you ready for the next one?" - Done
 10. first question (Power.py) to be shown without names. check after pilot to see how hard it was
 11. Write last screen text - Sagiv
-12. add option to skip questions - Nathan
-13. add measuring of full time taking the survey - Nathan
+12. add option to skip questions - Done
+13. add measuring of full time taking the survey - Done
 14. Run the pilot! (by the end of next week)
 15. Start experiment (by 8.5.22)
 
