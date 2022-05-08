@@ -31,22 +31,11 @@ https://hygojanqikehlxpb.anvil.app/KVVPGJKUSKTSNVQN5EMXTE5N
 8. Think what should be the baseline question - Done
 9. between screens: "Thank you! are you ready for the next one?" - Done
 10. first question (Power.py) to be shown without names. check after pilot to see how hard it was
-11. Write last screen text - Sagiv
+11. Write last screen text - Done
 12. add option to skip questions - Done
 13. add measuring of full time taking the survey - Done
-14. Run the pilot! (by the end of next week)
+14. Run the pilot! (by the end of next week) -Done
 15. Start experiment (by 8.5.22)
-
-## Questions for next meeting
-
-- multiple choice vs open answer?
- - dropbox considerations:
-   - guessing - can be filtered quite easily
-   - using heuristics to answer
- - free answer:
-   - ?
-
-- go over short function names (are they possible)
 
 ## Questions for Pilot subjects:
 
@@ -58,3 +47,18 @@ https://hygojanqikehlxpb.anvil.app/KVVPGJKUSKTSNVQN5EMXTE5N
 - did writing the answer took a lot of time?
 - were you spending a lot of time calculating the answer after you knew what the function does? in which questions?
 
+## After Pilot:
+1. Change the first question from power to CamelCase (easier)
+2. Minor changes in CamelCase
+3. Total time was below 20 min for 7 questions but 2.5-5 were on the first question, maybe we can show all questions in the experiment?
+4. Average time per question (excluding the first one) was 70-100 seconds
+5. Time for instructions was 87, 256, 424 seconds 
+6. Add a more balanced way to show all questions (check what question was underrepresented and show it more)
+7. Remove counter in the top left of question form
+8. Move skip button to right of submit (but make it a hyperlink)
+9. Remove banner on top (check how it looks)
+10. Remove the guidance for pen and paper
+11. "Filter words with letter"
+    - Delete 'this' maybe?
+    - Think about maybe changing the letter in it instead
+12. Schedule a meeting with Dror after tuesdays class

@@ -6,15 +6,15 @@ def capitalize(y):
 
 def camelcase(function_input):
     ans = []
-    x = function_input.split(' ')
+    x = function_input.split('_')
     for y in x:
         z = capitalize(y)
         ans.append(z)
-    return ''.join(ans)
+    return ''.join(ans) # note: join is performed on the blank string here
 
 
 if __name__ == "__main__":
-    function_input = 'this is a test string'
+    function_input = 'this_is_a_test_string'
     print(camelcase(function_input))
 
     
