@@ -63,4 +63,5 @@ https://hygojanqikehlxpb.anvil.app/KVVPGJKUSKTSNVQN5EMXTE5N
     - Think about maybe changing the letter in it instead
 12. Schedule a meeting with Dror after tuesdays class
 13. Add support for three profiles - Nathan
-14. Add multiple as test question instead (instead of "power") - Sagiv
+14. Add multiple as test question (instead of "power") - Sagiv
+15. Draft a messeage to send with the questionnaire - Sagiv
