@@ -55,13 +55,13 @@ https://hygojanqikehlxpb.anvil.app/KVVPGJKUSKTSNVQN5EMXTE5N
 5. Time for instructions was 87, 256, 424 seconds 
 6. Add a more balanced way to show all questions (check what question was underrepresented and show it more) - Use profiles (see 13)
 7. Remove counter in the top left of question form - Nathan
-8. Move skip button to right of submit (but make it a hyperlink) - Nathan
-9. Remove banner on top (check how it looks) - Nathan
-10. Remove the guidance for pen and paper - Nathan
+8. Move skip button to right of submit (but make it different design) - Done
+9. Remove banner on top (check how it looks) - Done
+10. Remove the guidance for pen and paper - Done
 11. "Filter words with letter" - Sagiv
     - Delete 'this' maybe?
     - Think about maybe changing the letter in it instead
 12. Schedule a meeting with Dror after tuesdays class
-13. Add support for three profiles - Nathan
+13. Add support for three profiles - Done
 14. Add multiple as test question (instead of "power") - Sagiv
 15. Draft a messeage to send with the questionnaire - Sagiv
