@@ -53,12 +53,14 @@ https://hygojanqikehlxpb.anvil.app/KVVPGJKUSKTSNVQN5EMXTE5N
 3. Total time was below 20 min for 7 questions but 2.5-5 were on the first question, maybe we can show all questions in the experiment?
 4. Average time per question (excluding the first one) was 70-100 seconds
 5. Time for instructions was 87, 256, 424 seconds 
-6. Add a more balanced way to show all questions (check what question was underrepresented and show it more)
-7. Remove counter in the top left of question form
-8. Move skip button to right of submit (but make it a hyperlink)
-9. Remove banner on top (check how it looks)
-10. Remove the guidance for pen and paper
-11. "Filter words with letter"
+6. Add a more balanced way to show all questions (check what question was underrepresented and show it more) - Use profiles (see 13)
+7. Remove counter in the top left of question form - Nathan
+8. Move skip button to right of submit (but make it a hyperlink) - Nathan
+9. Remove banner on top (check how it looks) - Nathan
+10. Remove the guidance for pen and paper - Nathan
+11. "Filter words with letter" - Sagiv
     - Delete 'this' maybe?
     - Think about maybe changing the letter in it instead
 12. Schedule a meeting with Dror after tuesdays class
+13. Add support for three profiles - Nathan
+14. Add multiple as test question instead (instead of "power") - Sagiv
