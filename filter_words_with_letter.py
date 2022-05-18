@@ -14,10 +14,11 @@ def find_words_with_letter(x_list, y):
 
 
 if __name__ == "__main__":
-    x_list = ['hello', 'are', 'grow',
-              'spam', 'ham', 'hi',
-              'go', 'to', 'this']
-    y = 'h'
+
+    x_list = [ 'there','is','a','snake','in','my','shoe']
+
+    y = 's'
+
     print(find_words_with_letter(x_list, y))
 
 

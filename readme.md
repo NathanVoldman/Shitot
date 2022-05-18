@@ -59,9 +59,9 @@ https://OOLOM7GHMKT3YB3T.anvil.app/Y2GZ5EYA3AQYVLFP3GP7VGCF
 9. Remove banner on top (check how it looks) - Done
 10. Remove the guidance for pen and paper - Done
 11. "Filter words with letter" - Sagiv
-    - Delete 'this' maybe?
-    - Think about maybe changing the letter in it instead
+    - Delete 'this' maybe? - N/A
+    - Think about maybe changing the letter in it instead - Done
 12. Schedule a meeting with Dror after tuesdays class
 13. Add support for three profiles - Done
-14. Add multiple as test question (instead of "power") - Sagiv
-15. Draft a messeage to send with the questionnaire - Sagiv
+14. Add multiple as test question (instead of "power") - Done
+15. Draft a message to send with the questionnaire - Sagiv
