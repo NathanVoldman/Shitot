@@ -14,37 +14,38 @@ def find_words_with_letter(x_list, y):
 
 
 if __name__ == "__main__":
-
-    x_list = [ 'there','is','a','snake','in','my','shoe']
-
+    x_list = ['there','is','a',
+              'snake','in','my',
+              'shoe']
     y = 's'
-
     print(find_words_with_letter(x_list, y))
 
+#######################
 
-#     def has_let(x, y):
-#         for a in x:
-#             if a.lower() == y.lower():
-#                 return True
-#         return False
-
-
-#     def wrd_w_let(x_list, y):
-#         z = []
-#         for x in x_list:
-#             if has_let(x, y):
-#                 z.append(x)
-#         return z
+# def has_let(x, y):
+#     for a in x:
+#         if a.lower() == y.lower():
+#             return True
+#     return False
 
 
-#     if __name__ == "__main__":
-#         x_list = ['hello', 'are', 'grow',
-#                   'spam', 'ham', 'hi',
-#                   'go', 'to', 'this']
-#         y = 'h'
-#         print(wrd_w_let(x_list, y))
+# def wrd_w_let(x_list, y):
+#     z = []
+#     for x in x_list:
+#         if has_let(x, y):
+#             z.append(x)
+#     return z
 
-    
+
+# if __name__ == "__main__":
+#     x_list = ['there','is','a',
+#               'snake','in','my',
+#               'shoe']
+#     y = 's'
+#     print(wrd_w_let(x_list, y))
+
+#######################
+
 # def B(x, y):
 #     for a in x:
 #         if a.lower() == y.lower():
@@ -61,11 +62,13 @@ if __name__ == "__main__":
 
 
 # if __name__ == "__main__":
-#     x_list = ['hello', 'are', 'grow',
-#               'spam', 'ham', 'hi',
-#               'go', 'to', 'this']
-#     y = 'h'
+#     x_list = ['there','is','a',
+#               'snake','in','my',
+#               'shoe']
+#     y = 's'
 #     print(A(x_list, y))
+
+    
 
 # answers:
 
