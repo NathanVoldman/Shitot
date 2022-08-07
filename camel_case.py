@@ -1,21 +1,40 @@
-def capitalize(y):
+def B(y):
     z = y[0].upper()
     z += y[1:]
     return z
 
 
-def camelcase(function_input):
+def A(function_input):
     ans = []
     x = function_input.split('_')
     for y in x:
-        z = capitalize(y)
+        z = B(y)
         ans.append(z)
     return ''.join(ans) # note: join is performed on the blank string here
 
 
 if __name__ == "__main__":
     function_input = 'this_is_a_test_string'
-    print(camelcase(function_input))
+    print(A(function_input))
+
+#     def capitalize(y):
+#     z = y[0].upper()
+#     z += y[1:]
+#     return z
+
+
+# def camelcase(function_input):
+#     ans = []
+#     x = function_input.split('_')
+#     for y in x:
+#         z = capitalize(y)
+#         ans.append(z)
+#     return ''.join(ans) # note: join is performed on the blank string here
+
+
+# if __name__ == "__main__":
+#     function_input = 'this_is_a_test_string'
+#     print(camelcase(function_input))
 
     
 #  def cap(y):
