@@ -89,5 +89,9 @@ Then we expected that the results will show eithr of the two:
 - Median time to finish answering the quiz: 465 seconds
 - Median number of questions answered by participant: 5 out of 6
 
-### Results:
+### Raw Results:
 #### Per question:
+![image](https://user-images.githubusercontent.com/49371700/183607543-eb4a2dcd-f780-4b72-a66a-f60f0418a78a.png)
+#### Aggregated:
+![image](https://user-images.githubusercontent.com/49371700/183607671-ab66b694-60a5-4c06-b7a6-51aeb50b22ba.png)
+
