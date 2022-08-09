@@ -65,3 +65,25 @@ https://OOLOM7GHMKT3YB3T.anvil.app/Y2GZ5EYA3AQYVLFP3GP7VGCF
 13. Add support for three profiles - Done
 14. Add multiple as test question (instead of "power") - Done
 15. Draft a message to send with the questionnaire - Sagiv
+
+## Final Experiment:
+The final graphs are presented in the Final_Presentation.pdf file
+
+### Expections:
+We expected that programmers will have a better performance on understanding code blocks with detailed names, over code blocks with obscured names.
+Then we expected that the results will show eithr of the two:
+- Performance on partial names is closer to performance on detailed names:
+![image](https://user-images.githubusercontent.com/49371700/183606694-2a56c637-6194-4f85-a78a-cd5e32bb1509.png)
+- Performance on partial names is closer to performance to obscured names:
+![image](https://user-images.githubusercontent.com/49371700/183606881-85389a0c-c28c-410a-9cb8-a0b0370f61b2.png)
+
+
+### Hypothesis:
+- 
+
+### Metadata:
+- Number of participants was 33
+- Median time to answer a question: 72 seconds
+- Median time to finish answering the quiz: 465 seconds
+- Median number of questions answered by participant: 5 out of 6
+
