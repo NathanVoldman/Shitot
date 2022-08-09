@@ -107,3 +107,7 @@ Due to relatively low participation rate, we cannot derive statistically signifi
      - For the fast category, there is no clear seperation between any of the code types.
      - For the medium category, partial is seperated from the other 2 types, and is answered faster.
      - For the slow category, detailed is seperated from obscured as we had expected, and is answered faster.
+
+## Meta
+This link creates a copy of the application we used for the questionnaire:
+https://anvil.works/build#clone:OOLOM7GHMKT3YB3T=AV2YPPY2BTORHXW7UAPTWXK2
