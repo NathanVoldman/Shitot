@@ -73,8 +73,10 @@ The final graphs are presented in the Final_Presentation.pdf file
 We expected that programmers will have a better performance on understanding code blocks with detailed names, over code blocks with obscured names.
 Then we expected that the results will show eithr of the two:
 - Performance on partial names is closer to performance on detailed names:
+
 ![image](https://user-images.githubusercontent.com/49371700/183606694-2a56c637-6194-4f85-a78a-cd5e32bb1509.png)
 - Performance on partial names is closer to performance to obscured names:
+
 ![image](https://user-images.githubusercontent.com/49371700/183606881-85389a0c-c28c-410a-9cb8-a0b0370f61b2.png)
 
 
