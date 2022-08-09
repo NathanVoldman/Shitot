@@ -115,3 +115,5 @@ https://anvil.works/build#clone:OOLOM7GHMKT3YB3T=AV2YPPY2BTORHXW7UAPTWXK2
 - Raw data we collected can be found in the raw_data.csv file.
 
 - The analasys code we executed on the raw data we collected, can be found in the Analasys directory.
+
+- The code blocks we used as part of the code unserstanding questions, and it's versions, can be found in the .py files under the main directory.
