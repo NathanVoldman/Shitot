@@ -109,5 +109,9 @@ Due to relatively low participation rate, we cannot derive statistically signifi
      - For the slow category, detailed is seperated from obscured as we had expected, and is answered faster.
 
 ## Meta
-This link creates a copy of the application we used for the questionnaire:
+- This link creates a copy of the application we used for the questionnaire:
 https://anvil.works/build#clone:OOLOM7GHMKT3YB3T=AV2YPPY2BTORHXW7UAPTWXK2
+
+- Raw data we collected can be found in the raw_data.csv file.
+
+- The analasys code we executed on the raw data we collected, can be found in the Analasys directory.
