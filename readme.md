@@ -81,7 +81,7 @@ Then we expected that the results will show eithr of the two:
 
 
 ### Hypothesis:
-- 
+- We hypothesize that the second option is the more likely: Performance on partial names is closer to performance to obscured names
 
 ### Metadata:
 - Number of participants was 33
@@ -89,3 +89,5 @@ Then we expected that the results will show eithr of the two:
 - Median time to finish answering the quiz: 465 seconds
 - Median number of questions answered by participant: 5 out of 6
 
+### Results:
+#### Per question:
