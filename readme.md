@@ -102,6 +102,7 @@ Due to relatively low participation rate, we cannot derive statistically signifi
    - Fast: Took less then 60 seconds to answer, meaning it was relatively easy for the developer to to figure out what the code does.
    - Medium: Took between 60 to 90 seconds to answer, around median time (72 seconds)
    - Slow: Took more than 90 seconds to answer, meaning it was relatively more challenging for the developer to figure out what the code does.
+   
    When dividing by those parameters, we can see:
      - For the fast category, there is no clear seperation between any of the code types.
      - For the medium category, partial is seperated from the other 2 types, and is answered faster.
