@@ -88,6 +88,9 @@ Then we expected that the results will show eithr of the two:
 - Median time to finish answering the quiz: 465 seconds
 - Median number of questions answered by participant: 5 out of 6
 
+### Disclaimer:
+Due to relatively low participation rate, we cannot derive statistically significant data from the results.
+
 ### Raw Results:
 #### Per question:
 ![image](https://user-images.githubusercontent.com/49371700/183607543-eb4a2dcd-f780-4b72-a66a-f60f0418a78a.png)
@@ -95,6 +98,11 @@ Then we expected that the results will show eithr of the two:
 ![image](https://user-images.githubusercontent.com/49371700/183607671-ab66b694-60a5-4c06-b7a6-51aeb50b22ba.png)
 
 ### Interpreted results:
-- When looking at the aggregated results, we can divide the participating developers into 3 subgroups:
-   - Experts:
-      fdsfds
+- When looking at the aggregated results, we can divide the answers into 3 subgroups, based on the time ranges it took for the developers to answer them:
+   - Fast: Took less then 60 seconds to answer, meaning it was relatively easy for the developer to to figure out what the code does.
+   - Medium: Took between 60 to 90 seconds to answer, around median time (72 seconds)
+   - Slow: Took more than 90 seconds to answer, meaning it was relatively more challenging for the developer to figure out what the code does.
+   When dividing by those parameters, we can see:
+     - For the fast category, there is no clear seperation between any of the code types.
+     - For the medium category, partial is seperated from the other 2 types, and is answered faster.
+     - For the slow category, detailed is seperated from obscured as we had expected, and is answered faster.
