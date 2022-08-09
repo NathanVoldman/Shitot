@@ -67,7 +67,6 @@ https://OOLOM7GHMKT3YB3T.anvil.app/Y2GZ5EYA3AQYVLFP3GP7VGCF
 15. Draft a message to send with the questionnaire - Sagiv
 
 ## Final Experiment:
-The final graphs are presented in the Final_Presentation.pdf file
 
 ### Expections:
 We expected that programmers will have a better performance on understanding code blocks with detailed names, over code blocks with obscured names.
@@ -95,3 +94,7 @@ Then we expected that the results will show eithr of the two:
 #### Aggregated:
 ![image](https://user-images.githubusercontent.com/49371700/183607671-ab66b694-60a5-4c06-b7a6-51aeb50b22ba.png)
 
+### Interpreted results:
+- When looking at the aggregated results, we can divide the participating developers into 3 subgroups:
+   - Experts:
+      fdsfds
