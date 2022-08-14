@@ -70,7 +70,7 @@ https://OOLOM7GHMKT3YB3T.anvil.app/Y2GZ5EYA3AQYVLFP3GP7VGCF
 
 ### Expections:
 We expected that programmers will have a better performance on understanding code blocks with detailed names, over code blocks with obscured names.
-Then we expected that the results will show eithr of the two:
+Then we expected that the results will show either of the two:
 - Performance on partial names is closer to performance on detailed names:
 
 ![image](https://user-images.githubusercontent.com/49371700/183606694-2a56c637-6194-4f85-a78a-cd5e32bb1509.png)
@@ -80,7 +80,7 @@ Then we expected that the results will show eithr of the two:
 
 
 ### Hypothesis:
-- We hypothesize that the second option is the more likely: Performance on partial names is closer to performance to obscured names
+- We hypothesize that the second option is the more likely: Performance on partial names is closer to performance on obscured names
 
 ### Metadata:
 - Number of participants was 33
